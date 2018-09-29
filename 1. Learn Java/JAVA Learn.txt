@@ -1,0 +1,32 @@
+e-Learning:
+	String Class
+	String Class Methods
+	Date Class
+	Simple Format Date Class
+	String Buffer Class
+	String Builder Class
+
+Interface contains all methods as an abstract.
+Interface conatins variables. All variables are Static, Final and Public.
+
+Class	------>	Class	=Extends (Inheritance)
+Interface	------>	Interface	=Extends
+Class	------>	Interface	=Implements
+
+Interfaces are used as:  1. a programming by contract
+		     2. loose coupling
+		     3. abstraction
+
+
+Self Learning:
+	String Class Arg Methods
+	String Pool Memory
+	Mutable & Immutable Object
+	Equal, Hash Code, Finalize & Clone Methods------>Finalize & Equal Methods
+	Util Packages
+		String Builder
+	Language Pakages
+		String Buffer
+	Enhance For Loop
+	Var Args
+	String in a Switch Case (CODE)
