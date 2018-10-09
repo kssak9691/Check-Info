@@ -8,3 +8,19 @@ https://www.phdportal.com/disciplines/246/strategic-management.html
 
 
 planetary logos of earth
+
+
+
+
+
+
+
+https://openpsychometrics.org/tests/LSRP.php
+
+https://openpsychometrics.org/tests/OEJTS/
+
+https://openpsychometrics.org/tests/WPI.php
+
+https://openpsychometrics.org/tests/LSRP.php
+
+https://openpsychometrics.org/
