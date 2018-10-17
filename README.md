@@ -35,3 +35,4 @@ https://openpsychometrics.org/
 
 https://www.ineedaprompt.com/
 
+https://mashable.com/article/websites-to-waste-time/#rh5cPykIz5qD
