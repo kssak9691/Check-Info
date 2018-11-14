@@ -1,5 +1,7 @@
 https://www.mbacrystalball.com/blog/2015/09/28/best-mim-masters-in-management/
 
+https://www.cognixia.com/data-science-with-python/?utm_source=Quora&utm_medium=CPC&utm_campaign=Quora-Data-Sci
+
 
 http://www.lightofegypt.com/home/index.aspx
 
