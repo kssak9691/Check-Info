@@ -26,7 +26,7 @@ https://www.phdportal.com/disciplines/246/strategic-management.html
 planetary logos of earth
 
 
-
+https://www.google.co.in/search?q=leaving+body+as+per+ancient+yogic+practices&rlz=1C1GCEU_enIN822IN822&oq=leaving+body+as+per+ancient+yogic+practices&aqs=chrome..69i57.13374j0j1&sourceid=chrome&ie=UTF-8
 
 
 
