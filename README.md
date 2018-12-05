@@ -1,5 +1,6 @@
 https://capgemini.skillport.com/skillportfe/main.action#whatshappening
 
+http://www.yurbookstore.com/
 
 https://www.mbacrystalball.com/blog/2015/09/28/best-mim-masters-in-management/
 
