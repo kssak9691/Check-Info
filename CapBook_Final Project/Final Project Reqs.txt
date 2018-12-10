@@ -1,0 +1,20 @@
+-----------------------------------------------------------------------------------------
+	Sticky Notes	<----|-|---->	Red Pen(Marker)
+-----------------------------------------------------------------------------------------
+
+
+	Scrum Board			Sprint Planning
+	Velocity				User Stories
+	Scrum Master Role			Burndown Chart
+
+
+
+
+			APIs:- 	Animation Plugins
+	
+			Validation on Angular Side/Client Side
+
+
+
+			TDD, BDD approaches
+
